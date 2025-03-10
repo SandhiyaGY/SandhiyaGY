@@ -1,6 +1,6 @@
-<!-- Banner Image -->
+![image](https://github.com/user-attachments/assets/2ea1e5db-a386-4678-a4fd-757973cc5369)<!-- Banner Image -->
 <p align="center">
-  <img src="https://source.unsplash.com/1000x300/?technology,coding" alt="Banner Image">
+  <img src="https://www.123rf.com/photo_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html" >
 </p>
 
 # 👋 Hi, I'm Sandhiya G 
