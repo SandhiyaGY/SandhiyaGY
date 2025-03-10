@@ -1,9 +1,14 @@
-![image](https://github.com/user-attachments/assets/2ea1e5db-a386-4678-a4fd-757973cc5369)<!-- Banner Image -->
+
+
+
+
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://www.123rf.com/photo_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html" >
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Developer Life">
 </p>
 
-# 👋 Hi, I'm Sandhiya G 
+
+# 👋 Hi, I'm Sandhiya G  
 ### 🚀 Passionate Developer | Tech Enthusiast  
 
 Welcome to my GitHub! I'm a dedicated programmer with a strong foundation in software development and web technologies. I enjoy solving complex problems and building innovative solutions.
@@ -33,6 +38,8 @@ Welcome to my GitHub! I'm a dedicated programmer with a strong foundation in sof
 
 ---
 
+
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
@@ -45,7 +52,7 @@ Welcome to my GitHub! I'm a dedicated programmer with a strong foundation in sof
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhiya-gurumoorthy-16ab0a295/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandhiyagy@gmail.com)
 
 ⭐ **Feel free to explore my repositories and contribute!** 🚀  
