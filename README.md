@@ -42,17 +42,18 @@ Welcome to my GitHub! I'm a dedicated programmer with a strong foundation in sof
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SandhiyaGY&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandhiyaGY&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ---
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhiya-gurumoorthy-16ab0a295/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandhiyagy@gmail.com)
+
+[📧 Email Me](mailto:sandhiyagy@gmail.com)
 
 ⭐ **Feel free to explore my repositories and contribute!** 🚀  
