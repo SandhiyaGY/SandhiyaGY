@@ -54,6 +54,5 @@ Welcome to my GitHub! I'm a dedicated programmer with a strong foundation in sof
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhiya-gurumoorthy-16ab0a295/)
 
-[📧 Email Me](mailto:sandhiyagy@gmail.com)
 
 ⭐ **Feel free to explore my repositories and contribute!** 🚀  
