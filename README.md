@@ -1,58 +1,57 @@
+# 👩‍💻 Sandhiya G | Aspiring Software Developer
 
+Hi there! I'm **Sandhiya G**, a passionate and driven Computer Science student specializing in **Software Development, Data Structures**, and **Problem Solving**. I love building things that make a real difference and exploring the depths of how technology works behind the scenes.
 
-
-
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Developer Life">
-</p>
-
-
-# 👋 Hi, I'm Sandhiya G  
-### 🚀 Passionate Developer | Tech Enthusiast  
-
-Welcome to my GitHub! I'm a dedicated programmer with a strong foundation in software development and web technologies. I enjoy solving complex problems and building innovative solutions.
+> "Curious by nature, coder by choice — always learning, always building. 💡"
 
 ---
 
-## 🌟 About Me  
-💡 Enthusiastic about coding, problem-solving, and technology.  
-🎯 Passionate about learning new concepts and improving my skills.  
-🤝 Always excited to collaborate on meaningful projects.  
+## 🌱 About Me
+
+- 🎓 3rd-year IT student at **St. Joseph's Institute of Technology**
+- 💻 Strong foundation in **Java**, **Data Structures**, and **Algorithms**
+- 💡 Passionate about **Web Development**, **AI**, and building impactful solutions
+- 🧠 Currently exploring **System Design**, **DBMS**, and **Real-world project development**
+- 🤝 Open to collaboration on meaningful projects & hackathons
 
 ---
 
-## 🛠️ Tech Stack  
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 🛠 Tech Stack
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Domain           | Tools & Tech                                                                 |
+|------------------|-------------------------------------------------------------------------------|
+| 💻 Programming   | Java, C, Python (Basics)                                                      |
+| 🌐 Web Dev       | HTML, CSS                                |
+| 🔍 DSA Practice  | LeetCode, HackerRank                                             |
+| 🧰 Dev Tools     | Git & GitHub, VS Code                                        |
+| 🧠 Learning Now  | JavaScript, React.js, TailwindCSS                                |
 
 ---
 
+## 🧩 Featured Projects
+
+Here are a few projects I’ve built:
 
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SandhiyaGY&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandhiyaGY&theme=tokyonight" alt="GitHub Streak">
-</p>
+> View all at: [github.com/SandhiyaGY?tab=repositories](https://github.com/SandhiyaGY?tab=repositories)
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhiya-gurumoorthy-16ab0a295/)
+## 📈 GitHub Stats
 
+![Sandhiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhiyaGY&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhiyaGY&layout=compact&theme=radical)
 
-⭐ **Feel free to explore my repositories and contribute!** 🚀  
+---
+
+## 🔗 Connect with Me
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/sandhiya-gurumoorthy-16ab0a295/)
+- 💼 Portfolio (Coming Soon...)
+- 💬 Let’s connect, learn, and build together!
+
+---
+
+> 🌸 *“Believe in your code, but debug with confidence.”*
+
+Thanks for stopping by! Feel free to check out my repositories and drop a ⭐ if you like my work!
