@@ -44,7 +44,7 @@ Here are a few projects I’ve built:
 
 ---
 
-## Linkedin Stats
+## 👩‍💻 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sandhiya_gurumoorthy?theme=dark&ext=heatmap)
 ---
 
