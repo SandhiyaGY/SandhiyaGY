@@ -40,8 +40,10 @@ Here are a few projects I’ve built:
 ## 📈 GitHub Stats
 
 ![Sandhiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhiyaGY&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhiyaGY&layout=compact&theme=radical)
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SandhiyaGY&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhiyaGY&layout=compact&theme=radical)
 ---
 
 ## 👩‍💻 LeetCode Stats
