@@ -41,7 +41,7 @@ Here are a few projects I’ve built:
 
 ![Sandhiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandhiyaGY&show_icons=true&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SandhiyaGY&theme=dark)
+<!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SandhiyaGY&theme=dark)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandhiyaGY&layout=compact&theme=radical)
 ---
