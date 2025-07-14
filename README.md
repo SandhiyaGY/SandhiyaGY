@@ -21,10 +21,11 @@ Hi there! I'm **Sandhiya G**, a passionate and driven Computer Science student s
 | Domain           | Tools & Tech                                                                 |
 |------------------|-------------------------------------------------------------------------------|
 | 💻 Programming   | Java, C, Python (Basics)                                                      |
-| 🌐 Web Dev       | HTML, CSS                                |
+| 🌐 Web Dev       | HTML, CSS , JavaScript                              |
+| 🧰 Frameworks    | Bootstrap , Tailwind CSS
 | 🔍 DSA Practice  | LeetCode, HackerRank                                             |
 | 🧰 Dev Tools     | Git & GitHub, VS Code                                        |
-| 🧠 Learning Now  | JavaScript, React.js, TailwindCSS                                |
+| 🧠 Learning Now  | React.js                               |
 
 ---
 
